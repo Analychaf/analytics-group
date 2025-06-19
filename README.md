@@ -8,7 +8,7 @@ Founder of Canalytics-group | Environmental Data Scientist | Data management Exp
 ## 🚀 What I Do
 - 🌱 Build geospatial and environmental data workflows
 - 🧠 Integrate AI for monitoring and decision-making
-- 📊 Develop Buisness intelligence tools (dashboards and apps) using RShiny and streamlit apps
+- 📊 Develop Buisness intelligence tools (dashboards and apps) using RShiny and streamlit framworks.
 
 ## 🔗 Featured Projects (coming soon..)
 
